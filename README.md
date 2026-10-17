@@ -69,4 +69,4 @@ The Watson endpoint is typically reachable only from within the IBM Skills Netwo
 
 ## Author
 
-Your Name
+EDUARDO P CARABEO JR
